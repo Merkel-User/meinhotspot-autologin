@@ -1,5 +1,7 @@
 # [meinhotspot-autologin](https://github.com/Merkel-User/meinhotspot-autologin)
 
+\[OUTDATED\]
+
 \[Windows only\]
 
 ## Automatically log into Mein Hotspot
